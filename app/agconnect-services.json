@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"890212000000000286",
+		"product_id":"9105385871708495028",
+		"client_id":"304890904215291072",
+		"client_secret":"30BCC9BD5B803EE5D6FCBDA320A2CC5374373B516271728687F3D5B07DA7C527",
+		"app_id":"101767383",
+		"package_name":"com.ikamaru.hmsmapkit",
+		"api_key":"CV58YftdtYv0JScEcN9L1jaLncsnKjAxtT2Fu5xf6e8oQAVeQN7WFz94zciuC4bk0idnZaHckaSbXPgJmPiczU/2p1Gv"
+	},
+	"configuration_version":"1.0"
+}
